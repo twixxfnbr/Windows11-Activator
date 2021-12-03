@@ -10,6 +10,7 @@ RUN THE PROGRAM AS ADMINISTRATOR or it will not work.
 Updated 12/3/2021:
 Fix in the script.
 Adding all Pro versions, ex: Win 11/10 Enterprise Pro.
+No script added, just the Exe and DLL file.
 
 At any concern or having problem with the activation, just send me a discord dm.
 Discord: twix.#3292
